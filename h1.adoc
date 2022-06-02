@@ -1,0 +1,22 @@
+= Hoofdstuk 1
+Peter Zandbergen <peter.zandbergen@myhops.com>
+:toc: right
+:toc-title: Table of contents
+:toclevels: 2
+
+This is a line.
+This is also a line.
+
+  Paragraph indented
+
+{author}
+
+== level one
+
+Hallo daar
+
+=== level two
+
+==== level three
+
+include::h2.adoc[]
