@@ -19,4 +19,4 @@ Hallo daar
 
 ==== level three
 
-include::h2.adoc[]
+link:h2.adoc[H2]
