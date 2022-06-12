@@ -1,4 +1,6 @@
-== Directory
+== README Adoc style
+
+This is the readme file, in adoc format.
 
 Processed
 
