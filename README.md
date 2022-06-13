@@ -1,4 +1,4 @@
-# The README file
+# The README Markdown style
 
 Hello there, how will this be formatted?
 
