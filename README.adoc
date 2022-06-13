@@ -6,7 +6,7 @@ This is the readme file, in adoc format.
 
 === Level 3
 
-=== Level 4
+==== Level 4
 
 link:h1.adoc[H1]
 
