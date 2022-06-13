@@ -8,6 +8,6 @@ This is the readme file, in adoc format.
 
 ==== Level 4
 
-h1.adoc[H1]
+link:h1.adoc[H1]
 
-h2.adoc[H2]
+link:h2.adoc[H2]
